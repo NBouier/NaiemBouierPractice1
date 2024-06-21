@@ -1,0 +1,92 @@
+### Step 2A
+/Users/nicholasbouier
+
+### Step 2B
+cd /Users/nicholasbouier/desktop
+
+### Step 2C
+cd /Users/nicholasbouier/desktop/unit1-git-practice
+
+### Step 2D
+/Users/nicholasbouier/desktop/unit1-git-practice
+
+### Step 2E
+ls
+
+### Step 2F
+my-steps.txt
+
+### Step 2G
+cd ~
+
+### Step 2H
+/Users/nicholasbouier
+
+### Step 2I
+Applications		Desktop			MMData
+D&G DC Excel.txt	Documents		Movies
+D&G DC Excel.xlsx	Downloads		Music
+D&G DC Full.pdf		Dropbox			Pictures
+D&G DC Top Sheet.pdf	EP			Public
+DC notes.txt		Library			PycharmProjects
+
+### Step 2J
+cd ~
+
+### Step 2K
+cd /Users/nicholasbouier/Desktop/unit1-git-practice
+
+### Step 3A
+
+
+### Step 3B
+
+
+### Step 3C
+
+
+### Step 3D
+
+
+### Step 3E
+
+
+### Step 3F
+
+
+### Step 3G
+
+
+### Step 3H
+
+
+### Step 3I
+
+
+### Step 3J
+
+
+### Step 3K
+
+
+### Step 3L
+
+
+### Step 3M
+
+
+### Step 3N
+
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
